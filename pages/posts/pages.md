@@ -7,14 +7,6 @@ author: You
 ---
 
 # Sharing is caring
-
-
-
-
-
-
-
-
-
+Such a cool story
 
 
