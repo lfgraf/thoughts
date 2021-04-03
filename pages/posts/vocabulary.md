@@ -1,0 +1,46 @@
+---
+title: Grasping the markdown vocabulary 
+date: 2021/4/3
+description: iA Writer and stuff
+tag: productivity
+author: You
+---
+
+Vocabulary
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+*Italic Text*
+_Italic Text_
+**Bold Text**
+__Bold Text__
+***Italic and Bold Text***
+___Italic and Bold Text___
+
+>This is an **embedded section**.
+>The section continues here
+
+>This is another **embedded section**.
+This section also continues in the second like
+
+This line isn’t embedded any more. 
+- Point 1
+- Point 2
+- Point 3
+
+[^This is my footnote]
+
+
+
+
+
+
+
+
+
+
+
